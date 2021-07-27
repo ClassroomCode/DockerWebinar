@@ -1,2 +1,2 @@
-# DockerWebinar
-Webinar - Deployment with ASP.NET Core 5 and Docker (28-Jul-2021)
+# Webinar - Deployment with ASP.NET Core 5 and Docker
+July 28, 2021
